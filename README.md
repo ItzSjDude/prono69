@@ -57,7 +57,7 @@
 
 <p align="left">
  <a href="https://www.python.org">
-    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/prono69/prono69/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
 
@@ -65,7 +65,7 @@
 
 <p>
 <a href="https://alamtd.wordpress.com">
- <img align="left" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/wordpress.svg" />
+ <img align="left" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/wordpress.svg" alt="AlamTD"/>
 </a>
 </p>
 
